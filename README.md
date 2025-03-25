@@ -37,12 +37,12 @@ A sleek and feature-rich todo list application built with HTML, CSS, and JavaScr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/yourusername/Task-Master.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd todo-list
+cd Task-Master
 ```
 
 3. Open `index.html` in your web browser
