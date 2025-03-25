@@ -2,8 +2,6 @@
 
 A sleek and feature-rich todo list application built with HTML, CSS, and JavaScript. This project showcases modern web development practices with a focus on user experience and visual appeal.
 
-![Todo List Preview](preview.png)
-
 ## 🌟 Features
 
 ### Modern Design
@@ -88,14 +86,10 @@ cd todo-list
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
-Your Name
-- GitHub: [@yourusername](https://github.com/arther07)
+Ishaan John
+- GitHub: [@arther07](https://github.com/arther07)
 - Email: ishaanjohn21200@gmail.com
 
 ## 🙏 Acknowledgments
